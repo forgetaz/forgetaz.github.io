@@ -1,3 +1,13 @@
+body {
+  font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    "BIZ UDPGothic",
+    Meiryo,
+    sans-serif;
+}
+
 .portfolio-header {
   position: relative;
   background-image: url(images/header-bg.jpg);
